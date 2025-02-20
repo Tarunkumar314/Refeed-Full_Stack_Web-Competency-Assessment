@@ -1,4 +1,0 @@
-   PORT = 8000
-   MONGO_URI = mongodb+srv://zezo:Z0123Z0123@cluster0.vhhi5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-   JWT_SECRET = ThisWebsiteIsMadeByZezO@Friday_9-8-2024
-   JWT_EXPIRATION_TIME = 1d
